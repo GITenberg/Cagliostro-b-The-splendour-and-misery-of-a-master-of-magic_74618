@@ -1,5 +1,8 @@
 _repo: Cagliostro-b-The-splendour-and-misery-of-a-master-of-magic_74618
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74618-h/images/cover.jpg
 creator:
   author:
     agent_name: Trowbridge, W. R. H. (William Rutherford Hayes)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41990'
     url: http://www.gutenberg.org/2009/agents/41990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74618#Cagliostro-b-The-splendour-and-misery-of-a-master-of-magic
 gutenberg_issued: '2024-10-21'
 gutenberg_type: Text
 identifiers:
